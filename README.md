@@ -4,7 +4,7 @@
 <!--   HERO — Layer 1: clean dark-navy waving banner                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ahsan%20Jannat&fontSize=72&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Digital%20Growth%20Architect%20%7C%20SEO%20%C2%B7%20AEO%20%C2%B7%20GEO%20%C2%B7%20Meta%20Ads%20Specialist&descAlignY=63&descSize=17&stroke=00D9FF&strokeWidth=2" alt="Ahsan Jannat" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ahsan%20Jannat&fontSize=72&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Digital%20Growth%20Architect%20%7C%20SEO%20%C2%B7%20AEO%20%C2%B7%20GEO%20%C2%B7%20Meta%20Ads%20Specialist&descAlignY=63&descSize=17" alt="Ahsan Jannat" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--   HERO — Layer 2: animated role-cycling subtitle                  -->
@@ -30,7 +30,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&text=&fontSize=0" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5&height=3&section=header&text=&fontSize=0" width="70%" alt=""/>
 
 <br/>
 
@@ -66,15 +66,15 @@
 <!--               ANIMATED GRADIENT DIVIDER                -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                     ABOUT ME                           -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated coding gif"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="About Me"> &nbsp; About Me
 
 ```yaml
 Name:        Ahsan Jannat
@@ -92,7 +92,7 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 
 💡 I'm a **Digital Growth Architect** working at the intersection of **Search Intelligence, AI, and Business Strategy** — combining SEO, paid advertising, analytics, and web strategy into one unified growth ecosystem.
 
-> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="18"> *"Technology creates possibilities. Strategy creates direction. Together, they create lasting impact."*
+> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="18" alt=""> *"Technology creates possibilities. Strategy creates direction. Together, they create lasting impact."*
 
 <br clear="right"/>
 
@@ -100,13 +100,13 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 <!--               ANIMATED GRADIENT DIVIDER                -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                 IMPACT METRICS BANNER                  -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> &nbsp; Impact at a Glance
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30" alt="Impact"> &nbsp; Impact at a Glance
 
 <div align="center">
 
@@ -137,13 +137,13 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                    WHAT I DO                           -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; What I Do
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="What I Do"> &nbsp; What I Do
 
 <div align="center">
 
@@ -206,34 +206,34 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  SKILL PROFICIENCY                     -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> &nbsp; Skill Proficiency
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30" alt="Skills"> &nbsp; Skill Proficiency
 
 <div align="center">
 
 | Skill | Proficiency | Level |
 |:------|:------------|:-----:|
-| 🔍 Search Engine Optimization | `████████████████████░░` | **92%** |
-| ⚙️ Technical SEO | `███████████████████░░░░` | **88%** |
-| 🤖 Answer Engine Optimization | `█████████████████░░░░░░` | **85%** |
-| 🧠 Generative Engine Optimization | `████████████████░░░░░░░` | **80%** |
-| 🌐 Web Strategy & Consulting | `███████████████░░░░░░░░` | **78%** |
-| 🛡️ Security-Aware SEO | `███████████░░░░░░░░░░░░` | **55%** |
+| 🔍 Search Engine Optimization | `███████████████████████░░` | **92%** |
+| ⚙️ Technical SEO | `██████████████████████░░░` | **88%** |
+| 🤖 Answer Engine Optimization | `█████████████████████░░░░` | **85%** |
+| 🧠 Generative Engine Optimization | `████████████████████░░░░░` | **80%** |
+| 🌐 Web Strategy & Consulting | `████████████████████░░░░░` | **78%** |
+| 🛡️ Security-Aware SEO | `██████████████░░░░░░░░░░░` | **55%** |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                TOOLS & TECHNOLOGIES                    -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> &nbsp; Tools & Technologies
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="Tools"> &nbsp; Tools & Technologies
 
 <div align="center">
 
@@ -270,13 +270,13 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  FEATURED PROJECTS                     -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> &nbsp; Featured Projects
+## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30" alt="Projects"> &nbsp; Featured Projects
 
 <div align="center">
 
@@ -349,13 +349,13 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                WORK EXPERIENCE TIMELINE                -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; Work Experience
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" alt="Work Experience"> &nbsp; Work Experience
 
 <div align="center">
 
@@ -381,7 +381,7 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 <!--                     EDUCATION                          -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="30"> &nbsp; Education
+## <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="30" alt="Education"> &nbsp; Education
 
 <div align="center">
 
@@ -396,17 +396,17 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                   GITHUB TROPHIES                      -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp; GitHub Trophies
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Trophies"> &nbsp; GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=-1)](https://github.com/Jannat63)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7)](https://github.com/Jannat63)
 
 </div>
 
@@ -414,17 +414,17 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 <!--                    GITHUB STATS                        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> &nbsp; GitHub Stats
+## <img src="https://media.giphy.com/media/KzJvzblenWsZcytB89/giphy.gif" width="30" alt="GitHub Stats"> &nbsp; GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jannat63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&count_private=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jannat63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&count_private=true&rank_icon=github" height="180" alt="Jannat63 GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannat63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannat63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Jannat63&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF5722&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=Jannat63&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF5722&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" width="65%" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -432,7 +432,7 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 <!--               CONTRIBUTION ACTIVITY GRAPH              -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> &nbsp; Contribution Activity
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" alt="Activity"> &nbsp; Contribution Activity
 
 <div align="center">
 
@@ -444,7 +444,7 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 <!--               SNAKE CONTRIBUTION ANIMATION             -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; Contribution Snake
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Snake"> &nbsp; Contribution Snake
 
 <div align="center">
 
@@ -456,13 +456,13 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  LATEST BLOG POSTS                     -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> &nbsp; Latest Blog Posts
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" alt="Blog Posts"> &nbsp; Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - 📖 &nbsp; [SEO vs AEO vs GEO: What's the Difference?](https://ahsan-jannat.netlify.app/blog/seo-vs-aeo-vs-geo)
@@ -472,26 +472,38 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 - 📖 &nbsp; [Meta Ads Complete Guide 2026: From Setup to ROAS](https://ahsan-jannat.netlify.app/blog/meta-ads-complete-guide-2026)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                   LET'S CONNECT                        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; Let's Connect
+## <img src="https://media.giphy.com/media/UCr7hZIhRhvMGxiMFQDMQA/giphy.gif" width="30" alt="Let's Connect"> &nbsp; Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahsan--jannat.netlify.app-FF5722?style=for-the-badge)](https://ahsan-jannat.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-jannat/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhsanJannat)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801643644550)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ahsan.jnat.2024/)
-[![Email](https://img.shields.io/badge/Gmail-ajbmix63%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajbmix63@gmail.com)
+<a href="https://ahsan-jannat.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-ahsan--jannat.netlify.app-FF5722?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/ahsan-jannat/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@AhsanJannat" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://wa.me/8801643644550" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://web.facebook.com/ahsan.jnat.2024/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:ajbmix63@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-ajbmix63@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=fadeIn&fontColor=ffffff&text=✨%20Thanks%20for%20visiting!%20✨&fontSize=24&fontAlignY=65" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&animation=fadeIn&fontColor=ffffff&text=✨%20Thanks%20for%20visiting!%20✨&fontSize=24&fontAlignY=65" alt="Footer" width="100%"/>
 
 **Helping businesses grow through Search Intelligence · AI Optimization · Digital Strategy**
 
