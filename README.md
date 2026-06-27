@@ -30,7 +30,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5&height=3&section=header&text=&fontSize=0" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&text=&fontSize=0" width="70%"/>
 
 <br/>
 
@@ -406,7 +406,7 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7)](https://github.com/Jannat63)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=-1)](https://github.com/Jannat63)
 
 </div>
 
@@ -424,7 +424,7 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Jannat63&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF5722&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=Jannat63&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF5722&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" width="65%"/>
 
 </div>
 
@@ -482,28 +482,16 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <div align="center">
 
-<a href="https://ahsan-jannat.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-ahsan--jannat.netlify.app-FF5722?style=for-the-badge" />
-</a>
-<a href="https://www.linkedin.com/in/ahsan-jannat/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@AhsanJannat" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://wa.me/8801643644550" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://web.facebook.com/ahsan.jnat.2024/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="mailto:ajbmix63@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-ajbmix63@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahsan--jannat.netlify.app-FF5722?style=for-the-badge)](https://ahsan-jannat.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-jannat/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhsanJannat)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801643644550)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ahsan.jnat.2024/)
+[![Email](https://img.shields.io/badge/Gmail-ajbmix63%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajbmix63@gmail.com)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&animation=fadeIn&fontColor=ffffff&text=✨%20Thanks%20for%20visiting!%20✨&fontSize=24&fontAlignY=65" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=fadeIn&fontColor=ffffff&text=✨%20Thanks%20for%20visiting!%20✨&fontSize=24&fontAlignY=65" alt="Footer" width="100%"/>
 
 **Helping businesses grow through Search Intelligence · AI Optimization · Digital Strategy**
 
