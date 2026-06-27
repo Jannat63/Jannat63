@@ -4,7 +4,7 @@
 <!--   HERO — Layer 1: clean dark-navy waving banner                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ahsan%20Jannat&fontSize=72&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Digital%20Growth%20Architect%20%7C%20SEO%20%C2%B7%20AEO%20%C2%B7%20GEO%20%C2%B7%20Meta%20Ads%20Specialist&descAlignY=63&descSize=17" alt="Ahsan Jannat" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=Ahsan%20Jannat&fontSize=80&fontAlignY=45&animation=fadeIn&fontColor=ffffff&fontColor2=00D9FF&desc=Digital%20Growth%20Architect%20%7C%20SEO%20%C2%B7%20AEO%20%C2%B7%20GEO%20%C2%B7%20Meta%20Ads%20Specialist&descAlignY=65&descSize=18&reversal=false" alt="Ahsan Jannat — Digital Growth Architect" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--   HERO — Layer 2: animated role-cycling subtitle                  -->
@@ -66,7 +66,7 @@
 <!--               ANIMATED GRADIENT DIVIDER                -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                     ABOUT ME                           -->
@@ -100,7 +100,7 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 <!--               ANIMATED GRADIENT DIVIDER                -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                 IMPACT METRICS BANNER                  -->
@@ -110,34 +110,39 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/+230%25-Organic%20Traffic-00D9FF?style=for-the-badge&labelColor=0D1117" />
-<br/><sub>📈 Growth Achieved</sub>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/%E2%86%91%20230%25-Organic%20Traffic-00D9FF?style=for-the-badge&labelColor=0D1117&logoColor=00D9FF" alt="+230% Organic Traffic"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/📈_Growth-Achieved-00D9FF?style=flat-square&labelColor=0D1117" alt="Growth Achieved"/>
 </td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/120%2B-Keywords%20Top%2010-7C3AED?style=for-the-badge&labelColor=0D1117" />
-<br/><sub>🔑 Page 1 Rankings</sub>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/%E2%86%91%20120%2B-Keywords%20Top%2010-7C3AED?style=for-the-badge&labelColor=0D1117" alt="120+ Keywords Top 10"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🔑_Page_1-Rankings-7C3AED?style=flat-square&labelColor=0D1117" alt="Page 1 Rankings"/>
 </td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/4.2x-Meta%20Ads%20ROAS-FF5722?style=for-the-badge&labelColor=0D1117" />
-<br/><sub>📣 Ad Return</sub>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/%E2%86%91%204.2x-Meta%20Ads%20ROAS-FF5722?style=for-the-badge&labelColor=0D1117" alt="4.2x ROAS"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/📣_Ad-Return-FF5722?style=flat-square&labelColor=0D1117" alt="Ad Return"/>
 </td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/+80%25-Conversions-22C55E?style=for-the-badge&labelColor=0D1117" />
-<br/><sub>💰 CRO Impact</sub>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/%E2%86%91%2080%25-Conversions-22C55E?style=for-the-badge&labelColor=0D1117" alt="+80% Conversions"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/💰_CRO-Impact-22C55E?style=flat-square&labelColor=0D1117" alt="CRO Impact"/>
 </td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/98%25-Satisfaction-F59E0B?style=for-the-badge&labelColor=0D1117" />
-<br/><sub>⭐ Client Rating</sub>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/⭐%2098%25-Client%20Satisfaction-F59E0B?style=for-the-badge&labelColor=0D1117" alt="98% Satisfaction"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/⭐_Client-Rating-F59E0B?style=flat-square&labelColor=0D1117" alt="Client Rating"/>
 </td>
 </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                    WHAT I DO                           -->
@@ -147,66 +152,102 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="8" cellpadding="0" width="780">
 <tr>
-<td valign="top" width="25%">
 
-### 🔍 Search Strategy
-<img src="https://img.shields.io/badge/-SEO-00D9FF?style=flat-square"/> <img src="https://img.shields.io/badge/-Technical%20SEO-00D9FF?style=flat-square"/>
+<!-- ── Card 1: Search Strategy ──────────────────────────────── -->
+<td valign="top" width="50%">
+<table border="1" cellspacing="0" cellpadding="16" width="100%" style="border-color:#00D9FF;border-radius:8px;">
+<tr><td>
 
-- On-Page & Off-Page SEO
-- Site Architecture Audits  
-- Local & Enterprise SEO
-- Core Web Vitals
-- E-commerce SEO
-- International SEO
+**🔍 Search Strategy**
+&nbsp;
+<img src="https://img.shields.io/badge/-SEO-00D9FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-Technical%20SEO-00D9FF?style=flat-square&labelColor=0D1117"/>
 
+✦ On-Page & Off-Page SEO
+✦ Site Architecture Audits
+✦ Local & Enterprise SEO
+✦ Core Web Vitals
+✦ E-commerce SEO
+✦ International SEO
+
+</td></tr>
+</table>
 </td>
-<td valign="top" width="25%">
 
-### 🤖 AI Search Optimization
-<img src="https://img.shields.io/badge/-AEO-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/-GEO-7C3AED?style=flat-square"/>
+<!-- ── Card 2: AI Search ─────────────────────────────────────── -->
+<td valign="top" width="50%">
+<table border="1" cellspacing="0" cellpadding="16" width="100%" style="border-color:#7C3AED;border-radius:8px;">
+<tr><td>
 
-- Answer Engine Optimization
-- Generative Engine Optimization  
-- ChatGPT & Gemini Visibility
-- Entity & Knowledge Graph
-- Structured Data & Schema
-- Semantic Search Strategy
+**🤖 AI Search Optimization**
+&nbsp;
+<img src="https://img.shields.io/badge/-AEO-7C3AED?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-GEO-7C3AED?style=flat-square&labelColor=0D1117"/>
 
+✦ Answer Engine Optimization
+✦ Generative Engine Optimization
+✦ ChatGPT & Gemini Visibility
+✦ Entity & Knowledge Graph
+✦ Structured Data & Schema
+✦ Semantic Search Strategy
+
+</td></tr>
+</table>
 </td>
-<td valign="top" width="25%">
 
-### 📣 Digital Marketing
-<img src="https://img.shields.io/badge/-Meta%20Ads-FF5722?style=flat-square"/> <img src="https://img.shields.io/badge/-CRO-FF5722?style=flat-square"/>
+</tr>
+<tr>
 
-- Meta Ads (FB & IG)
-- Retargeting Funnels
-- ROAS Optimization
-- Conversion Rate Opt.
-- Customer Journey Maps
-- Brand Visibility
+<!-- ── Card 3: Digital Marketing ─────────────────────────────── -->
+<td valign="top" width="50%">
+<table border="1" cellspacing="0" cellpadding="16" width="100%" style="border-color:#FF5722;border-radius:8px;">
+<tr><td>
 
+**📣 Digital Marketing**
+&nbsp;
+<img src="https://img.shields.io/badge/-Meta%20Ads-FF5722?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-CRO-FF5722?style=flat-square&labelColor=0D1117"/>
+
+✦ Meta Ads (FB & IG)
+✦ Retargeting Funnels
+✦ ROAS Optimization
+✦ Conversion Rate Opt.
+✦ Customer Journey Maps
+✦ Brand Visibility
+
+</td></tr>
+</table>
 </td>
-<td valign="top" width="25%">
 
-### ⚙️ Technical & AI Systems
-<img src="https://img.shields.io/badge/-Automation-22C55E?style=flat-square"/> <img src="https://img.shields.io/badge/-AI-22C55E?style=flat-square"/>
+<!-- ── Card 4: Technical & AI Systems ───────────────────────── -->
+<td valign="top" width="50%">
+<table border="1" cellspacing="0" cellpadding="16" width="100%" style="border-color:#22C55E;border-radius:8px;">
+<tr><td>
 
-- AI Workflow Automation
-- Prompt Engineering
-- Analytics Dashboards
-- Web App Development
-- CMS & Web Strategy
-- Security-Aware SEO
+**⚙️ Technical & AI Systems**
+&nbsp;
+<img src="https://img.shields.io/badge/-Automation-22C55E?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-AI-22C55E?style=flat-square&labelColor=0D1117"/>
 
+✦ AI Workflow Automation
+✦ Prompt Engineering
+✦ Analytics Dashboards
+✦ Web App Development
+✦ CMS & Web Strategy
+✦ Security-Aware SEO
+
+</td></tr>
+</table>
 </td>
+
 </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  SKILL PROFICIENCY                     -->
@@ -216,18 +257,54 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 
 <div align="center">
 
-| Skill | Proficiency | Level |
-|:------|:------------|:-----:|
-| 🔍 Search Engine Optimization | `███████████████████████░░` | **92%** |
-| ⚙️ Technical SEO | `██████████████████████░░░` | **88%** |
-| 🤖 Answer Engine Optimization | `█████████████████████░░░░` | **85%** |
-| 🧠 Generative Engine Optimization | `████████████████████░░░░░` | **80%** |
-| 🌐 Web Strategy & Consulting | `████████████████████░░░░░` | **78%** |
-| 🛡️ Security-Aware SEO | `██████████████░░░░░░░░░░░` | **55%** |
+<table border="0" cellspacing="0" cellpadding="8" width="720">
+<tr>
+<td width="300" align="left"><b>🔍 Search Engine Optimization</b></td>
+<td>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━░░-92%25-00D9FF?style=flat-square&labelColor=0D1117" alt="92%"/>
+</td>
+<td width="50" align="right"><b>92%</b></td>
+</tr>
+<tr>
+<td align="left"><b>⚙️ Technical SEO</b></td>
+<td>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━░░░-88%25-00D9FF?style=flat-square&labelColor=0D1117" alt="88%"/>
+</td>
+<td align="right"><b>88%</b></td>
+</tr>
+<tr>
+<td align="left"><b>🤖 Answer Engine Optimization</b></td>
+<td>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━░░░░-85%25-7C3AED?style=flat-square&labelColor=0D1117" alt="85%"/>
+</td>
+<td align="right"><b>85%</b></td>
+</tr>
+<tr>
+<td align="left"><b>🧠 Generative Engine Optimization</b></td>
+<td>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━░░░░░-80%25-7C3AED?style=flat-square&labelColor=0D1117" alt="80%"/>
+</td>
+<td align="right"><b>80%</b></td>
+</tr>
+<tr>
+<td align="left"><b>🌐 Web Strategy & Consulting</b></td>
+<td>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━░░░░░-78%25-FF5722?style=flat-square&labelColor=0D1117" alt="78%"/>
+</td>
+<td align="right"><b>78%</b></td>
+</tr>
+<tr>
+<td align="left"><b>🛡️ Security-Aware SEO</b></td>
+<td>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━░░░░░░░░░░░-55%25-22C55E?style=flat-square&labelColor=0D1117" alt="55%"/>
+</td>
+<td align="right"><b>55%</b></td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                TOOLS & TECHNOLOGIES                    -->
@@ -236,6 +313,11 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="Tools"> &nbsp; Tools & Technologies
 
 <div align="center">
+
+<!-- Skill icon grid — auto dark mode, one-line -->
+<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,github,vscode,figma,py&theme=dark" alt="Tech skill icons: HTML CSS JS WordPress GitHub VSCode Figma Python"/>
+
+<br/>
 
 **🔎 SEO & Analytics**
 
@@ -270,7 +352,7 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  FEATURED PROJECTS                     -->
@@ -349,7 +431,7 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                WORK EXPERIENCE TIMELINE                -->
@@ -359,21 +441,108 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🏢  Officer – Digital Marketing Team                           ║
-║      HATIL · Dhaka  │  2025 – Present                          ║
-║      └─ Digital presence, web strategy, cross-dept coordination ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🌐  Lead Web Strategist                                        ║
-║      Final Touch · Dhaka  │  Jan 2025 – Mid 2025               ║
-║      └─ Web architecture, SEO pre-deployment, hosting & domains ║
-╠══════════════════════════════════════════════════════════════════╣
-║  💻  Assistant IT Officer                                       ║
-║      Bangla City PLC · Dhaka  │  2024 – 2025                   ║
-║      └─ IT support, network management, security protocols      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<table border="0" cellspacing="0" cellpadding="0" width="780">
+
+<!-- ── JOB 1 ─────────────────────────────────────────────────── -->
+<tr>
+<td width="120" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/2025-Present-00D9FF?style=for-the-badge&labelColor=0D1117" alt="2025–Present"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🟢-CURRENT-22C55E?style=flat-square&labelColor=0D1117" alt="Current"/>
+</td>
+<td width="20" align="center" valign="top">
+<br/><br/>
+<img src="https://img.shields.io/badge/%7C-|-%2300D9FF?style=flat-square&labelColor=0D1117&color=0D1117" alt="|" width="3"/>
+</td>
+<td valign="top">
+<br/>
+
+**🏢 Officer — Digital Marketing Team**
+&nbsp;&nbsp;![HATIL](https://img.shields.io/badge/HATIL-Dhaka%2C%20BD-00D9FF?style=flat-square&labelColor=0D1117)
+
+<sub>Leading digital growth initiatives across SEO, web strategy, and cross-departmental coordination for Bangladesh's premier furniture brand.</sub>
+
+![SEO](https://img.shields.io/badge/-SEO%20Strategy-00D9FF?style=flat-square&labelColor=161B22)
+![Web Strategy](https://img.shields.io/badge/-Web%20Strategy-00D9FF?style=flat-square&labelColor=161B22)
+![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-00D9FF?style=flat-square&labelColor=161B22)
+![AEO](https://img.shields.io/badge/-AEO%20%26%20GEO-00D9FF?style=flat-square&labelColor=161B22)
+
+<br/>
+</td>
+</tr>
+
+<!-- ── CONNECTOR ───────────────────────────────────────────── -->
+<tr>
+<td></td>
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%94%82-%20-7C3AED?style=flat-square&labelColor=0D1117&color=0D1117" alt="" width="3" height="20"/>
+</td>
+<td></td>
+</tr>
+
+<!-- ── JOB 2 ─────────────────────────────────────────────────── -->
+<tr>
+<td width="120" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/Jan_2025-Mid_2025-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Jan–Mid 2025"/>
+</td>
+<td width="20" align="center" valign="top">
+<br/><br/>
+<img src="https://img.shields.io/badge/%7C-|-%237C3AED?style=flat-square&labelColor=0D1117&color=0D1117" alt="|" width="3"/>
+</td>
+<td valign="top">
+<br/>
+
+**🌐 Lead Web Strategist**
+&nbsp;&nbsp;![Final Touch](https://img.shields.io/badge/Final%20Touch-Dhaka%2C%20BD-7C3AED?style=flat-square&labelColor=0D1117)
+
+<sub>Architected full-stack web solutions with pre-deployment SEO pipelines, domain strategy, and managed hosting infrastructure.</sub>
+
+![Web Architecture](https://img.shields.io/badge/-Web%20Architecture-7C3AED?style=flat-square&labelColor=161B22)
+![Technical SEO](https://img.shields.io/badge/-Technical%20SEO-7C3AED?style=flat-square&labelColor=161B22)
+![Hosting](https://img.shields.io/badge/-Hosting%20%26%20Domains-7C3AED?style=flat-square&labelColor=161B22)
+
+<br/>
+</td>
+</tr>
+
+<!-- ── CONNECTOR ───────────────────────────────────────────── -->
+<tr>
+<td></td>
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%94%82-%20-FF5722?style=flat-square&labelColor=0D1117&color=0D1117" alt="" width="3" height="20"/>
+</td>
+<td></td>
+</tr>
+
+<!-- ── JOB 3 ─────────────────────────────────────────────────── -->
+<tr>
+<td width="120" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/2024-2025-FF5722?style=for-the-badge&labelColor=0D1117" alt="2024–2025"/>
+</td>
+<td width="20" align="center" valign="top">
+<br/><br/>
+<img src="https://img.shields.io/badge/%7C-|-%23FF5722?style=flat-square&labelColor=0D1117&color=0D1117" alt="|" width="3"/>
+</td>
+<td valign="top">
+<br/>
+
+**💻 Assistant IT Officer**
+&nbsp;&nbsp;![Bangla City PLC](https://img.shields.io/badge/Bangla%20City%20PLC-Dhaka%2C%20BD-FF5722?style=flat-square&labelColor=0D1117)
+
+<sub>Handled IT infrastructure, network administration, and security protocol implementation across enterprise operations.</sub>
+
+![IT Support](https://img.shields.io/badge/-IT%20Support-FF5722?style=flat-square&labelColor=161B22)
+![Networking](https://img.shields.io/badge/-Network%20Mgmt-FF5722?style=flat-square&labelColor=161B22)
+![Security](https://img.shields.io/badge/-Security%20Protocols-FF5722?style=flat-square&labelColor=161B22)
+
+<br/>
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -385,18 +554,38 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🎓  B.Sc. in Computer Science & Engineering                    ║
-║      Northern University of Business & Technology, Khulna      ║
-║      2019 – 2023  │  CGPA: 3.094 / 4.00                        ║
-║      Core: Algorithms · Networking · Databases · Software Eng.  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<table border="0" cellspacing="0" cellpadding="0" width="780">
+<tr>
+<td width="130" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/2019-2023-14B8A6?style=for-the-badge&labelColor=0D1117" alt="2019–2023"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🎓-CSE-14B8A6?style=flat-square&labelColor=0D1117" alt="CSE Degree"/>
+</td>
+<td width="20" valign="top"></td>
+<td valign="top">
+<br/>
+
+**🎓 B.Sc. in Computer Science & Engineering**
+&nbsp;&nbsp;![NUBTK](https://img.shields.io/badge/Northern%20University%20of%20Business%20%26%20Tech-Khulna%2C%20BD-14B8A6?style=flat-square&labelColor=0D1117)
+
+<sub>Four-year undergraduate degree covering core computer science theory and applied engineering disciplines.</sub>
+
+&nbsp;&nbsp;![CGPA](https://img.shields.io/badge/🏆%20CGPA-3.094%20%2F%204.00-F59E0B?style=for-the-badge&labelColor=0D1117) &nbsp;
+
+![Algorithms](https://img.shields.io/badge/-Algorithms-14B8A6?style=flat-square&labelColor=161B22)
+![Networking](https://img.shields.io/badge/-Networking-14B8A6?style=flat-square&labelColor=161B22)
+![Databases](https://img.shields.io/badge/-Databases-14B8A6?style=flat-square&labelColor=161B22)
+![Software Eng.](https://img.shields.io/badge/-Software%20Eng.-14B8A6?style=flat-square&labelColor=161B22)
+
+<br/>
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                   GITHUB TROPHIES                      -->
@@ -406,7 +595,9 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7)](https://github.com/Jannat63)
+<a href="https://github.com/Jannat63">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" width="100%"/>
+</a>
 
 </div>
 
@@ -456,7 +647,7 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  LATEST BLOG POSTS                     -->
@@ -465,14 +656,86 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 ## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" alt="Blog Posts"> &nbsp; Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 📖 &nbsp; [SEO vs AEO vs GEO: What's the Difference?](https://ahsan-jannat.netlify.app/blog/seo-vs-aeo-vs-geo)
-- 📖 &nbsp; [How to Rank in AI Overviews & SGE](https://ahsan-jannat.netlify.app/blog/how-to-rank-in-ai-overviews)
-- 📖 &nbsp; [Technical SEO Checklist for 2026](https://ahsan-jannat.netlify.app/blog/technical-seo-checklist-2026)
-- 📖 &nbsp; [What is GEO? How to Get Cited by ChatGPT & Gemini](https://ahsan-jannat.netlify.app/blog/what-is-geo)
-- 📖 &nbsp; [Meta Ads Complete Guide 2026: From Setup to ROAS](https://ahsan-jannat.netlify.app/blog/meta-ads-complete-guide-2026)
+
+<div align="center">
+
+<table border="0" cellspacing="6" cellpadding="0" width="780">
+<tr>
+
+<td width="50%" valign="top">
+<table border="1" cellspacing="0" cellpadding="14" width="100%" style="border-color:#00D9FF22;border-radius:8px;">
+<tr><td>
+<img src="https://img.shields.io/badge/SEO%20%7C%20AEO%20%7C%20GEO-Strategy-00D9FF?style=flat-square&labelColor=0D1117" alt="Strategy"/>
+<br/><br/>
+<b><a href="https://ahsan-jannat.netlify.app/blog/seo-vs-aeo-vs-geo">SEO vs AEO vs GEO: What's the Difference?</a></b>
+<br/><sub>Breaking down the three pillars of modern search visibility.</sub>
+<br/><br/>→ <a href="https://ahsan-jannat.netlify.app/blog/seo-vs-aeo-vs-geo">Read article</a>
+</td></tr>
+</table>
+</td>
+
+<td width="50%" valign="top">
+<table border="1" cellspacing="0" cellpadding="14" width="100%" style="border-color:#7C3AED22;border-radius:8px;">
+<tr><td>
+<img src="https://img.shields.io/badge/AI%20Search-AEO-7C3AED?style=flat-square&labelColor=0D1117" alt="AEO"/>
+<br/><br/>
+<b><a href="https://ahsan-jannat.netlify.app/blog/how-to-rank-in-ai-overviews">How to Rank in AI Overviews & SGE</a></b>
+<br/><sub>Tactics to appear in Google's AI-generated answers.</sub>
+<br/><br/>→ <a href="https://ahsan-jannat.netlify.app/blog/how-to-rank-in-ai-overviews">Read article</a>
+</td></tr>
+</table>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<table border="1" cellspacing="0" cellpadding="14" width="100%" style="border-color:#00D9FF22;border-radius:8px;">
+<tr><td>
+<img src="https://img.shields.io/badge/Technical-SEO-00D9FF?style=flat-square&labelColor=0D1117" alt="Technical SEO"/>
+<br/><br/>
+<b><a href="https://ahsan-jannat.netlify.app/blog/technical-seo-checklist-2026">Technical SEO Checklist for 2026</a></b>
+<br/><sub>Every audit item you need to rank and crawl efficiently.</sub>
+<br/><br/>→ <a href="https://ahsan-jannat.netlify.app/blog/technical-seo-checklist-2026">Read article</a>
+</td></tr>
+</table>
+</td>
+
+<td width="50%" valign="top">
+<table border="1" cellspacing="0" cellpadding="14" width="100%" style="border-color:#7C3AED22;border-radius:8px;">
+<tr><td>
+<img src="https://img.shields.io/badge/GEO-LLM%20Citations-7C3AED?style=flat-square&labelColor=0D1117" alt="GEO"/>
+<br/><br/>
+<b><a href="https://ahsan-jannat.netlify.app/blog/what-is-geo">What is GEO? How to Get Cited by ChatGPT & Gemini</a></b>
+<br/><sub>Generative Engine Optimization from scratch.</sub>
+<br/><br/>→ <a href="https://ahsan-jannat.netlify.app/blog/what-is-geo">Read article</a>
+</td></tr>
+</table>
+</td>
+
+</tr>
+<tr>
+<td width="50%" valign="top">
+<table border="1" cellspacing="0" cellpadding="14" width="100%" style="border-color:#FF572222;border-radius:8px;">
+<tr><td>
+<img src="https://img.shields.io/badge/Meta%20Ads-Performance-FF5722?style=flat-square&labelColor=0D1117" alt="Meta Ads"/>
+<br/><br/>
+<b><a href="https://ahsan-jannat.netlify.app/blog/meta-ads-complete-guide-2026">Meta Ads Complete Guide 2026: From Setup to ROAS</a></b>
+<br/><sub>Full-funnel campaign strategy to maximise ad return.</sub>
+<br/><br/>→ <a href="https://ahsan-jannat.netlify.app/blog/meta-ads-complete-guide-2026">Read article</a>
+</td></tr>
+</table>
+</td>
+<td width="50%" valign="top"></td>
+
+</tr>
+</table>
+
+</div>
+
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                   LET'S CONNECT                        -->
