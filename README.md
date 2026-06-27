@@ -1,32 +1,62 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  ANIMATED HEADER BANNER                -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   HERO — Layer 1: clean dark-navy waving banner                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Ahsan%20Jannat&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=✦%20Digital%20Growth%20Architect%20✦%20SEO%20·%20AEO%20·%20GEO%20·%20Meta%20Ads%20✦&descAlignY=62&descSize=18&stroke=ffffff&strokeWidth=1" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,20,30&height=220&section=header&text=Ahsan%20Jannat&fontSize=72&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Digital%20Growth%20Architect%20%7C%20SEO%20·%20AEO%20·%20GEO%20·%20Meta%20Ads%20Specialist&descAlignY=63&descSize=17&stroke=00D9FF&strokeWidth=2" alt="Ahsan Jannat" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ANIMATED TYPING                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   HERO — Layer 2: animated role-cycling subtitle                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=52&lines=🔍+SEO+%7C+AEO+%7C+GEO+Strategist;🤖+AI+Search+Optimization+Pioneer;📣+Meta+Ads+%26+Conversion+Specialist;⚙️+Technical+SEO+%26+Web+Strategy;🚀+Digital+Growth+Architect" alt="Typing animation"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   HERO — Layer 3: availability pill + profile views               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🔍+SEO+%7C+AEO+%7C+GEO+Strategist;🤖+AI+Search+Optimization+Pioneer;📣+Meta+Ads+%26+Conversion+Specialist;⚙️+Technical+SEO+Expert;🚀+Digital+Growth+Architect)](https://git.io/typing-svg)
+![Available](https://img.shields.io/badge/✅_Status-Available%20for%20Projects-22C55E?style=flat-square&labelColor=0D1117)
+&nbsp;
+![Location](https://img.shields.io/badge/📍_Location-Dhaka%2C%20Bangladesh-00D9FF?style=flat-square&labelColor=0D1117)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=Jannat63&color=7C3AED&style=flat-square&label=👁️+Profile+Views)
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   HERO — Layer 4: cyan glow divider                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    SOCIAL BADGES                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5&height=3&section=header&text=&fontSize=0" width="70%"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jannat63&color=00D9FF&style=for-the-badge&label=👁️+PROFILE+VIEWS)](https://github.com/Jannat63)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://ahsan-jannat.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-jannat/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhsanJannat)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801643644550)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ahsan.jnat.2024/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajbmix63@gmail.com)
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   HERO — Layer 5: social links — row 1 (portfolio + professional) -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ahsan--jannat.netlify.app-FF5722?style=for-the-badge)](https://ahsan-jannat.netlify.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-jannat/)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhsanJannat)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   HERO — Layer 6: social links — row 2 (contact)                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801643644550)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ahsan.jnat.2024/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-ajbmix63%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajbmix63@gmail.com)
+
+<br/><br/>
 
 </div>
 
