@@ -4,13 +4,13 @@
 <!--   HERO — Layer 1: clean dark-navy waving banner                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,20,30&height=220&section=header&text=Ahsan%20Jannat&fontSize=72&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Digital%20Growth%20Architect%20%7C%20SEO%20·%20AEO%20·%20GEO%20·%20Meta%20Ads%20Specialist&descAlignY=63&descSize=17&stroke=00D9FF&strokeWidth=2" alt="Ahsan Jannat" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ahsan%20Jannat&fontSize=72&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Digital%20Growth%20Architect%20%7C%20SEO%20%C2%B7%20AEO%20%C2%B7%20GEO%20%C2%B7%20Meta%20Ads%20Specialist&descAlignY=63&descSize=17&stroke=00D9FF&strokeWidth=2" alt="Ahsan Jannat" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--   HERO — Layer 2: animated role-cycling subtitle                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=52&lines=🔍+SEO+%7C+AEO+%7C+GEO+Strategist;🤖+AI+Search+Optimization+Pioneer;📣+Meta+Ads+%26+Conversion+Specialist;⚙️+Technical+SEO+%26+Web+Strategy;🚀+Digital+Growth+Architect" alt="Typing animation"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=52&lines=%F0%9F%94%8D+SEO+%7C+AEO+%7C+GEO+Strategist;%F0%9F%A4%96+AI+Search+Optimization+Pioneer;%F0%9F%93%A3+Meta+Ads+%26+Conversion+Specialist;%E2%9A%99%EF%B8%8F+Technical+SEO+%26+Web+Strategy;%F0%9F%9A%80+Digital+Growth+Architect)](https://github.com/Jannat63)
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--   HERO — Layer 3: availability pill + profile views               -->
