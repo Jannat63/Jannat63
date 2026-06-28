@@ -72,9 +72,13 @@
 <!--                     ABOUT ME                           -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated coding gif"/>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="About Me"> &nbsp; About Me
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+
+<!-- ── Left: YAML card + bio ─────────────────────────────── -->
+<td valign="top" width="60%">
 
 ```yaml
 Name:        Ahsan Jannat
@@ -92,9 +96,23 @@ Portfolio:   🌐 ahsan-jannat.netlify.app
 
 💡 I'm a **Digital Growth Architect** working at the intersection of **Search Intelligence, AI, and Business Strategy** — combining SEO, paid advertising, analytics, and web strategy into one unified growth ecosystem.
 
+<br/>
+
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="18" alt=""> *"Technology creates possibilities. Strategy creates direction. Together, they create lasting impact."*
 
-<br clear="right"/>
+</td>
+
+<!-- ── Spacer ─────────────────────────────────────────────── -->
+<td width="4%"></td>
+
+<!-- ── Right: coding GIF aligned to top of the card ────────── -->
+<td valign="top" width="36%" align="center">
+<br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width:300px;border-radius:12px;" alt="Animated coding gif"/>
+</td>
+
+</tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--               ANIMATED GRADIENT DIVIDER                -->
@@ -642,7 +660,7 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jannat63/Jannat63/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jannat63/Jannat63/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Jannat63/Jannat63/output/github-snake-dark.svg" width="100%"/>
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Jannat63/Jannat63/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
