@@ -613,9 +613,16 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <div align="center">
 
-<a href="https://github.com/Jannat63">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" width="100%"/>
+<!-- Primary mirror (load-balanced) — falls back through alternatives if broken -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub Trophies" width="100%"/>
 </a>
+
+<!-- ↓ If the image above still breaks, swap the src to one of these mirrors:
+  https://github-profile-trophy-liard-delta.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6
+  https://github-profile-trophy-winning.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6
+  https://github-profile-trophy.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6
+-->
 
 </div>
 
