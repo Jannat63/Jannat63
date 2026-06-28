@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00D9FF" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#7C3AED" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="soft-blur">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <clipPath id="clip-main">
+      <rect width="1200" height="630"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip-main)">
+
+    <!-- Background -->
+    <rect width="1200" height="630" fill="url(#bg)"/>
+
+    <!-- Ambient glow blobs -->
+    <ellipse cx="980" cy="120" rx="320" ry="200" fill="#00D9FF" opacity="0.04" filter="url(#soft-blur)"/>
+    <ellipse cx="100" cy="520" rx="260" ry="180" fill="#7C3AED" opacity="0.05" filter="url(#soft-blur)"/>
+    <ellipse cx="600" cy="315" rx="400" ry="260" fill="#00D9FF" opacity="0.02" filter="url(#soft-blur)"/>
+
+    <!-- Grid dot pattern — top right quadrant -->
+    <g opacity="0.07" fill="#00D9FF">
+      <circle cx="760" cy="60" r="1.5"/><circle cx="800" cy="60" r="1.5"/><circle cx="840" cy="60" r="1.5"/><circle cx="880" cy="60" r="1.5"/><circle cx="920" cy="60" r="1.5"/><circle cx="960" cy="60" r="1.5"/><circle cx="1000" cy="60" r="1.5"/><circle cx="1040" cy="60" r="1.5"/><circle cx="1080" cy="60" r="1.5"/><circle cx="1120" cy="60" r="1.5"/><circle cx="1160" cy="60" r="1.5"/>
+      <circle cx="760" cy="100" r="1.5"/><circle cx="800" cy="100" r="1.5"/><circle cx="840" cy="100" r="1.5"/><circle cx="880" cy="100" r="1.5"/><circle cx="920" cy="100" r="1.5"/><circle cx="960" cy="100" r="1.5"/><circle cx="1000" cy="100" r="1.5"/><circle cx="1040" cy="100" r="1.5"/><circle cx="1080" cy="100" r="1.5"/><circle cx="1120" cy="100" r="1.5"/><circle cx="1160" cy="100" r="1.5"/>
+      <circle cx="760" cy="140" r="1.5"/><circle cx="800" cy="140" r="1.5"/><circle cx="840" cy="140" r="1.5"/><circle cx="880" cy="140" r="1.5"/><circle cx="920" cy="140" r="1.5"/><circle cx="960" cy="140" r="1.5"/><circle cx="1000" cy="140" r="1.5"/><circle cx="1040" cy="140" r="1.5"/><circle cx="1080" cy="140" r="1.5"/><circle cx="1120" cy="140" r="1.5"/><circle cx="1160" cy="140" r="1.5"/>
+      <circle cx="760" cy="180" r="1.5"/><circle cx="800" cy="180" r="1.5"/><circle cx="840" cy="180" r="1.5"/><circle cx="880" cy="180" r="1.5"/><circle cx="920" cy="180" r="1.5"/><circle cx="960" cy="180" r="1.5"/><circle cx="1000" cy="180" r="1.5"/><circle cx="1040" cy="180" r="1.5"/><circle cx="1080" cy="180" r="1.5"/><circle cx="1120" cy="180" r="1.5"/><circle cx="1160" cy="180" r="1.5"/>
+      <circle cx="760" cy="220" r="1.5"/><circle cx="800" cy="220" r="1.5"/><circle cx="840" cy="220" r="1.5"/><circle cx="880" cy="220" r="1.5"/><circle cx="920" cy="220" r="1.5"/><circle cx="960" cy="220" r="1.5"/><circle cx="1000" cy="220" r="1.5"/><circle cx="1040" cy="220" r="1.5"/><circle cx="1080" cy="220" r="1.5"/><circle cx="1120" cy="220" r="1.5"/><circle cx="1160" cy="220" r="1.5"/>
+    </g>
+
+    <!-- Top accent line -->
+    <rect x="0" y="0" width="1200" height="3" fill="url(#accent-line)"/>
+
+    <!-- Left content column -->
+
+    <!-- Badge — "Open to work" -->
+    <rect x="64" y="72" width="176" height="30" rx="15" fill="#0D2B0D" stroke="#22C55E" stroke-width="1"/>
+    <circle cx="88" cy="87" r="5" fill="#22C55E"/>
+    <text x="100" y="92" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#22C55E" font-weight="500">Available for projects</text>
+
+    <!-- Name -->
+    <text x="64" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="74" font-weight="700" fill="url(#name-grad)">Ahsan Jannat</text>
+
+    <!-- Cyan underline accent under name -->
+    <rect x="64" y="214" width="520" height="3" rx="1.5" fill="url(#accent-line)"/>
+
+    <!-- Role title -->
+    <text x="64" y="268" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="400" fill="#A0AEC0" letter-spacing="0.5">Digital Growth Architect</text>
+
+    <!-- Specialty pills row -->
+    <!-- SEO pill -->
+    <rect x="64" y="300" width="68" height="28" rx="14" fill="#002233" stroke="#00D9FF" stroke-width="1"/>
+    <text x="98" y="319" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#00D9FF" text-anchor="middle">SEO</text>
+    <!-- AEO pill -->
+    <rect x="142" y="300" width="68" height="28" rx="14" fill="#002233" stroke="#00D9FF" stroke-width="1"/>
+    <text x="176" y="319" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#00D9FF" text-anchor="middle">AEO</text>
+    <!-- GEO pill -->
+    <rect x="220" y="300" width="68" height="28" rx="14" fill="#1A0050" stroke="#7C3AED" stroke-width="1"/>
+    <text x="254" y="319" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#7C3AED" text-anchor="middle">GEO</text>
+    <!-- Meta Ads pill -->
+    <rect x="298" y="300" width="90" height="28" rx="14" fill="#1A0050" stroke="#7C3AED" stroke-width="1"/>
+    <text x="343" y="319" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#7C3AED" text-anchor="middle">Meta Ads</text>
+    <!-- Tech SEO pill -->
+    <rect x="398" y="300" width="98" height="28" rx="14" fill="#002233" stroke="#00D9FF" stroke-width="1"/>
+    <text x="447" y="319" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#00D9FF" text-anchor="middle">Technical SEO</text>
+
+    <!-- Divider line -->
+    <rect x="64" y="352" width="560" height="1" fill="#21262D"/>
+
+    <!-- Impact stats row -->
+    <!-- Stat 1 -->
+    <text x="64" y="392" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700" fill="#00D9FF">↑230%</text>
+    <text x="64" y="414" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#6B7280">Organic Traffic</text>
+    <!-- Divider -->
+    <rect x="184" y="370" width="1" height="52" fill="#21262D"/>
+    <!-- Stat 2 -->
+    <text x="200" y="392" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700" fill="#7C3AED">120+</text>
+    <text x="200" y="414" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#6B7280">Top 10 Keywords</text>
+    <!-- Divider -->
+    <rect x="316" y="370" width="1" height="52" fill="#21262D"/>
+    <!-- Stat 3 -->
+    <text x="332" y="392" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700" fill="#FF5722">4.2x</text>
+    <text x="332" y="414" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#6B7280">Meta Ads ROAS</text>
+    <!-- Divider -->
+    <rect x="430" y="370" width="1" height="52" fill="#21262D"/>
+    <!-- Stat 4 -->
+    <text x="446" y="392" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700" fill="#22C55E">↑80%</text>
+    <text x="446" y="414" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#6B7280">Conversions</text>
+
+    <!-- Divider line -->
+    <rect x="64" y="440" width="560" height="1" fill="#21262D"/>
+
+    <!-- Location + company row -->
+    <!-- Location icon placeholder -->
+    <circle cx="76" cy="474" r="7" fill="none" stroke="#00D9FF" stroke-width="1.5"/>
+    <circle cx="76" cy="474" r="2.5" fill="#00D9FF"/>
+    <line x1="76" y1="481" x2="76" y2="487" stroke="#00D9FF" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="92" y="479" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#A0AEC0">Dhaka, Bangladesh</text>
+    <!-- Dot separator -->
+    <circle cx="222" cy="474" r="2" fill="#4B5563"/>
+    <!-- Briefcase icon placeholder -->
+    <rect x="232" y="467" width="14" height="11" rx="2" fill="none" stroke="#7C3AED" stroke-width="1.5"/>
+    <path d="M236 467 v-3 a2 2 0 0 1 4 0 v3" fill="none" stroke="#7C3AED" stroke-width="1.5"/>
+    <text x="252" y="479" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#A0AEC0">HATIL · Digital Marketing</text>
+
+    <!-- Portfolio URL at bottom left -->
+    <text x="64" y="528" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#4B5563">github.com/Jannat63  ·  ahsan-jannat.netlify.app</text>
+
+    <!-- ── Right panel — profile card ── -->
+
+    <!-- Card background -->
+    <rect x="740" y="60" width="408" height="510" rx="16" fill="url(#card-bg)" stroke="#21262D" stroke-width="1"/>
+    <!-- Card top accent bar -->
+    <rect x="740" y="60" width="408" height="4" rx="2" fill="url(#accent-line)"/>
+
+    <!-- Avatar circle -->
+    <circle cx="944" cy="180" r="72" fill="#161B22" stroke="#00D9FF" stroke-width="2"/>
+    <!-- AJ initials -->
+    <text x="944" y="197" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="url(#name-grad)" text-anchor="middle">AJ</text>
+
+    <!-- Card name -->
+    <text x="944" y="288" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">Ahsan Jannat</text>
+    <text x="944" y="314" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#00D9FF" text-anchor="middle">Digital Growth Architect</text>
+
+    <!-- Card divider -->
+    <rect x="804" y="334" width="280" height="1" fill="#21262D"/>
+
+    <!-- Card stats grid 2x2 -->
+    <!-- SEO -->
+    <rect x="804" y="354" width="118" height="64" rx="8" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
+    <text x="863" y="380" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#00D9FF" text-anchor="middle">92%</text>
+    <text x="863" y="400" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">SEO Score</text>
+    <!-- AEO -->
+    <rect x="930" y="354" width="118" height="64" rx="8" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
+    <text x="989" y="380" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#7C3AED" text-anchor="middle">85%</text>
+    <text x="989" y="400" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">AEO Score</text>
+    <!-- GEO -->
+    <rect x="804" y="428" width="118" height="64" rx="8" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
+    <text x="863" y="454" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#FF5722" text-anchor="middle">80%</text>
+    <text x="863" y="474" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">GEO Score</text>
+    <!-- Satisfaction -->
+    <rect x="930" y="428" width="118" height="64" rx="8" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
+    <text x="989" y="454" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#22C55E" text-anchor="middle">98%</text>
+    <text x="989" y="474" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">Satisfaction</text>
+
+    <!-- Card bottom — tagline -->
+    <rect x="804" y="508" width="280" height="1" fill="#21262D"/>
+    <text x="944" y="536" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#4B5563" text-anchor="middle">Search Intelligence · AI Optimization · Growth</text>
+    <text x="944" y="554" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#4B5563" text-anchor="middle" font-style="italic">@Jannat63</text>
+
+    <!-- Bottom accent line -->
+    <rect x="0" y="627" width="1200" height="3" fill="url(#accent-line)"/>
+
+  </g>
+</svg>
