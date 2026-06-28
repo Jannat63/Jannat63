@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- OG / Social share preview image -->
-<meta property="og:image" content="https://raw.githubusercontent.com/Jannat63/Jannat63/main/og-image.svg"/>
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--   HERO — Layer 1: clean dark-navy waving banner                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
