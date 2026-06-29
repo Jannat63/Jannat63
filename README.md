@@ -275,9 +275,7 @@ Portfolio:   ahsan-jannat.netlify.app
 
 <br/>
 
-![Skills Radar Chart](assets/radar-chart.svg)
-
-<sub>Commit <code>assets/radar-chart.svg</code> to your repo — download it from the files shared earlier.</sub>
+[![Skills Radar Chart](https://quickchart.io/chart?width=680&height=420&backgroundColor=rgb(13,17,23)&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22SEO%2092%25%22%2C%22Tech%20SEO%2088%25%22%2C%22AEO%2085%25%22%2C%22GEO%2080%25%22%2C%22Web%20Strategy%2078%25%22%2C%22Meta%20Ads%2075%25%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B92%2C88%2C85%2C80%2C78%2C75%5D%2C%22backgroundColor%22%3A%22rgba%280%2C217%2C255%2C0.25%29%22%2C%22borderColor%22%3A%22rgba%280%2C217%2C255%2C1%29%22%2C%22pointBackgroundColor%22%3A%22rgba%28124%2C58%2C237%2C1%29%22%2C%22pointBorderColor%22%3A%22%23fff%22%2C%22pointRadius%22%3A5%2C%22pointHoverRadius%22%3A7%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%2C%22max%22%3A100%2C%22beginAtZero%22%3Atrue%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22white%22%2C%22fontSize%22%3A13%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.12%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.2%29%22%7D%7D%7D%7D)](https://ahsan-jannat.netlify.app/)
 
 </div>
 
@@ -594,7 +592,7 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -746,11 +744,15 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=Open%20to%20Freelance%20Projects%20%26%20Consulting&fontSize=22&fontAlignY=50&fontColor=ffffff&animation=fadeIn" alt="Work With Me" width="100%"/>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td align="center" style="padding:20px 0;">
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open%20for%20Collaborations-22C55E?style=for-the-badge&labelColor=0D1117" alt="Open for work"/>
+</td>
+</tr>
+</table>
 
-<br/>
-
-**Available for:** SEO Audits · AEO/GEO Strategy · Meta Ads Campaigns · Technical SEO · AI Search Visibility · Web Strategy Consulting
+**Available for:** SEO Audits &nbsp;·&nbsp; AEO/GEO Strategy &nbsp;·&nbsp; Meta Ads Campaigns &nbsp;·&nbsp; Technical SEO &nbsp;·&nbsp; AI Search Visibility &nbsp;·&nbsp; Web Strategy Consulting
 
 <br/>
 
