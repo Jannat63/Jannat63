@@ -31,6 +31,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ahsan.jnat.2024/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-ajbmix63%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajbmix63@gmail.com)
+&nbsp;
+[![CV](https://img.shields.io/badge/%F0%9F%93%84_Download_CV-PDF-7C3AED?style=for-the-badge)](https://ahsan-jannat.netlify.app/assets/files/ahsan-jannat-cv.pdf)
 
 <br/><br/>
 
@@ -38,11 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="About Me"> &nbsp; About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="About"> &nbsp; About Me
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
@@ -72,14 +70,10 @@ Portfolio:   ahsan-jannat.netlify.app
 <td width="4%"></td>
 <td valign="top" width="36%" align="center">
 <br/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated coding gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding gif"/>
 </td>
 </tr>
 </table>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               DAILY ROTATING QUOTE                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -89,65 +83,39 @@ Portfolio:   ahsan-jannat.netlify.app
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 IMPACT METRICS BANNER                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30" alt="Impact"> &nbsp; Impact at a Glance
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td align="center" width="170">
-<img src="https://img.shields.io/badge/%E2%86%91%20230%25-Organic%20Traffic-00D9FF?style=for-the-badge&labelColor=0D1117" alt="+230% Organic Traffic"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/%F0%9F%93%88_Growth-Achieved-00D9FF?style=flat-square&labelColor=0D1117" alt="Growth Achieved"/>
-</td>
-<td align="center" width="170">
-<img src="https://img.shields.io/badge/%E2%86%91%20120%2B-Keywords%20Top%2010-7C3AED?style=for-the-badge&labelColor=0D1117" alt="120+ Keywords Top 10"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/%F0%9F%94%91_Page_1-Rankings-7C3AED?style=flat-square&labelColor=0D1117" alt="Page 1 Rankings"/>
-</td>
-<td align="center" width="170">
-<img src="https://img.shields.io/badge/%E2%86%91%204.2x-Meta%20Ads%20ROAS-FF5722?style=for-the-badge&labelColor=0D1117" alt="4.2x ROAS"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/%F0%9F%93%A3_Ad-Return-FF5722?style=flat-square&labelColor=0D1117" alt="Ad Return"/>
-</td>
-<td align="center" width="170">
-<img src="https://img.shields.io/badge/%E2%86%91%2080%25-Conversions-22C55E?style=for-the-badge&labelColor=0D1117" alt="+80% Conversions"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/%F0%9F%92%B0_CRO-Impact-22C55E?style=flat-square&labelColor=0D1117" alt="CRO Impact"/>
-</td>
-<td align="center" width="170">
-<img src="https://img.shields.io/badge/%E2%AD%90%2098%25-Client%20Satisfaction-F59E0B?style=for-the-badge&labelColor=0D1117" alt="98% Satisfaction"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/%E2%AD%90_Client-Rating-F59E0B?style=flat-square&labelColor=0D1117" alt="Client Rating"/>
-</td>
-</tr>
-</table>
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|:---:|:---:|:---:|:---:|:---:|
+| ![+230%](https://img.shields.io/badge/%E2%86%91%20230%25-Organic%20Traffic-00D9FF?style=for-the-badge&labelColor=0D1117) | ![120+](https://img.shields.io/badge/120%2B-Keywords%20Top%2010-7C3AED?style=for-the-badge&labelColor=0D1117) | ![4.2x](https://img.shields.io/badge/4.2x-Meta%20Ads%20ROAS-FF5722?style=for-the-badge&labelColor=0D1117) | ![+80%](https://img.shields.io/badge/%E2%86%91%2080%25-Conversions-22C55E?style=for-the-badge&labelColor=0D1117) | ![98%](https://img.shields.io/badge/%E2%AD%90%2098%25-Satisfaction-F59E0B?style=for-the-badge&labelColor=0D1117) |
+| 📈 Growth | 🔑 Page 1 | 📣 Ad Return | 💰 CRO | ⭐ Clients |
+
+<br/>
+
+**Trusted by** &nbsp;
+![HATIL](https://img.shields.io/badge/%F0%9F%8F%A0-HATIL-00D9FF?style=flat-square&labelColor=0D1117)
+![Bangla City](https://img.shields.io/badge/%F0%9F%8F%99%EF%B8%8F-Bangla%20City-7C3AED?style=flat-square&labelColor=0D1117)
+![FinalTouch](https://img.shields.io/badge/%E2%9C%A8-FinalTouch-FF5722?style=flat-square&labelColor=0D1117)
+![UKASHIA](https://img.shields.io/badge/%F0%9F%9B%8D%EF%B8%8F-UKASHIA-22C55E?style=flat-square&labelColor=0D1117)
+![Brand Hive](https://img.shields.io/badge/%F0%9F%90%9D-Brand%20Hive-F59E0B?style=flat-square&labelColor=0D1117)
+![Creative People](https://img.shields.io/badge/%F0%9F%8E%A8-Creative%20People-EC4899?style=flat-square&labelColor=0D1117)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    WHAT I DO                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="What I Do"> &nbsp; What I Do
 
 <div align="center">
 
-<table border="0" cellspacing="8" cellpadding="0" width="780">
+<table border="0" cellspacing="8" cellpadding="0">
 <tr>
-
 <td valign="top" width="50%">
-<table border="1" cellspacing="0" cellpadding="16" width="100%">
-<tr><td>
+<table border="1" cellspacing="0" cellpadding="16" width="100%"><tr><td>
 
-**🔍 Search Strategy**
-&nbsp;
+**🔍 Search Strategy**&nbsp;
 <img src="https://img.shields.io/badge/-SEO-00D9FF?style=flat-square&labelColor=0D1117" alt="SEO"/>
 <img src="https://img.shields.io/badge/-Technical%20SEO-00D9FF?style=flat-square&labelColor=0D1117" alt="Technical SEO"/>
 
@@ -158,16 +126,12 @@ Portfolio:   ahsan-jannat.netlify.app
 ✦ E-commerce SEO
 ✦ International SEO
 
-</td></tr>
-</table>
+</td></tr></table>
 </td>
-
 <td valign="top" width="50%">
-<table border="1" cellspacing="0" cellpadding="16" width="100%">
-<tr><td>
+<table border="1" cellspacing="0" cellpadding="16" width="100%"><tr><td>
 
-**🤖 AI Search Optimization**
-&nbsp;
+**🤖 AI Search Optimization**&nbsp;
 <img src="https://img.shields.io/badge/-AEO-7C3AED?style=flat-square&labelColor=0D1117" alt="AEO"/>
 <img src="https://img.shields.io/badge/-GEO-7C3AED?style=flat-square&labelColor=0D1117" alt="GEO"/>
 
@@ -178,19 +142,14 @@ Portfolio:   ahsan-jannat.netlify.app
 ✦ Structured Data & Schema
 ✦ Semantic Search Strategy
 
-</td></tr>
-</table>
+</td></tr></table>
 </td>
-
 </tr>
 <tr>
-
 <td valign="top" width="50%">
-<table border="1" cellspacing="0" cellpadding="16" width="100%">
-<tr><td>
+<table border="1" cellspacing="0" cellpadding="16" width="100%"><tr><td>
 
-**📣 Digital Marketing**
-&nbsp;
+**📣 Digital Marketing**&nbsp;
 <img src="https://img.shields.io/badge/-Meta%20Ads-FF5722?style=flat-square&labelColor=0D1117" alt="Meta Ads"/>
 <img src="https://img.shields.io/badge/-CRO-FF5722?style=flat-square&labelColor=0D1117" alt="CRO"/>
 
@@ -201,16 +160,12 @@ Portfolio:   ahsan-jannat.netlify.app
 ✦ Customer Journey Maps
 ✦ Brand Visibility
 
-</td></tr>
-</table>
+</td></tr></table>
 </td>
-
 <td valign="top" width="50%">
-<table border="1" cellspacing="0" cellpadding="16" width="100%">
-<tr><td>
+<table border="1" cellspacing="0" cellpadding="16" width="100%"><tr><td>
 
-**⚙️ Technical & AI Systems**
-&nbsp;
+**⚙️ Technical & AI Systems**&nbsp;
 <img src="https://img.shields.io/badge/-Automation-22C55E?style=flat-square&labelColor=0D1117" alt="Automation"/>
 <img src="https://img.shields.io/badge/-AI-22C55E?style=flat-square&labelColor=0D1117" alt="AI"/>
 
@@ -221,10 +176,8 @@ Portfolio:   ahsan-jannat.netlify.app
 ✦ CMS & Web Strategy
 ✦ Security-Aware SEO
 
-</td></tr>
-</table>
+</td></tr></table>
 </td>
-
 </tr>
 </table>
 
@@ -232,46 +185,18 @@ Portfolio:   ahsan-jannat.netlify.app
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  SKILL PROFICIENCY                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30" alt="Skills"> &nbsp; Skill Proficiency
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8" width="720">
-<tr>
-<td width="300" align="left"><b>🔍 Search Engine Optimization</b></td>
-<td><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━░░-92%25-00D9FF?style=flat-square&labelColor=0D1117" alt="92%"/></td>
-<td width="50" align="right"><b>92%</b></td>
-</tr>
-<tr>
-<td align="left"><b>⚙️ Technical SEO</b></td>
-<td><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━░░░-88%25-00D9FF?style=flat-square&labelColor=0D1117" alt="88%"/></td>
-<td align="right"><b>88%</b></td>
-</tr>
-<tr>
-<td align="left"><b>🤖 Answer Engine Optimization</b></td>
-<td><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━░░░░-85%25-7C3AED?style=flat-square&labelColor=0D1117" alt="85%"/></td>
-<td align="right"><b>85%</b></td>
-</tr>
-<tr>
-<td align="left"><b>🧠 Generative Engine Optimization</b></td>
-<td><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━░░░░░-80%25-7C3AED?style=flat-square&labelColor=0D1117" alt="80%"/></td>
-<td align="right"><b>80%</b></td>
-</tr>
-<tr>
-<td align="left"><b>🌐 Web Strategy & Consulting</b></td>
-<td><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━░░░░░-78%25-FF5722?style=flat-square&labelColor=0D1117" alt="78%"/></td>
-<td align="right"><b>78%</b></td>
-</tr>
-<tr>
-<td align="left"><b>🛡️ Security-Aware SEO</b></td>
-<td><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━░░░░░░░░░░░-55%25-22C55E?style=flat-square&labelColor=0D1117" alt="55%"/></td>
-<td align="right"><b>55%</b></td>
-</tr>
-</table>
+| Skill | Level | Score |
+|:------|:------|:-----:|
+| **🔍 Search Engine Optimization** | ![92%](https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%96%91%E2%96%91-92%25-00D9FF?style=flat-square&labelColor=0D1117) | **92%** |
+| **⚙️ Technical SEO** | ![88%](https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%96%91%E2%96%91%E2%96%91-88%25-00D9FF?style=flat-square&labelColor=0D1117) | **88%** |
+| **🤖 Answer Engine Optimization** | ![85%](https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%96%91%E2%96%91%E2%96%91%E2%96%91-85%25-7C3AED?style=flat-square&labelColor=0D1117) | **85%** |
+| **🧠 Generative Engine Optimization** | ![80%](https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-80%25-7C3AED?style=flat-square&labelColor=0D1117) | **80%** |
+| **🌐 Web Strategy & Consulting** | ![78%](https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-78%25-FF5722?style=flat-square&labelColor=0D1117) | **78%** |
+| **🛡️ Security-Aware SEO** | ![55%](https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-55%25-22C55E?style=flat-square&labelColor=0D1117) | **55%** |
 
 <br/>
 
@@ -280,10 +205,6 @@ Portfolio:   ahsan-jannat.netlify.app
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                TOOLS & TECHNOLOGIES                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="Tools"> &nbsp; Tools & Technologies
 
@@ -328,85 +249,88 @@ Portfolio:   ahsan-jannat.netlify.app
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECTS                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30" alt="Projects"> &nbsp; Featured Projects
 
 <div align="center">
 
-<table>
+| | |
+|:---:|:---:|
+| **🌾 [Union Agrovet](https://unionagrovet.com.bd)** | **🕊️ [Faithness BD](https://faithnessbd.com/)** |
+| ![Web Dev](https://img.shields.io/badge/Web_Development-00D9FF?style=flat-square) | ![Web Dev](https://img.shields.io/badge/Web_Development-00D9FF?style=flat-square) |
+| Full web build with strong SEO foundation | Business website with growth optimization |
+| **🌱 [Insoils](https://insoils.com/)** | **⚡ [Vassker](https://vassker.com/)** |
+| ![Design](https://img.shields.io/badge/Web_Design-7C3AED?style=flat-square) ![SEO](https://img.shields.io/badge/Technical_SEO-7C3AED?style=flat-square) | ![SEO](https://img.shields.io/badge/SEO-FF5722?style=flat-square) ![Design](https://img.shields.io/badge/Web_Design-FF5722?style=flat-square) |
+| Clean design + deep technical SEO | End-to-end digital growth strategy |
+| **🌿 [Aloevera Glow](https://aloeveraglow.com/)** | **💻 [Best Tech Planet](https://www.besttechplanet.com/)** |
+| ![E-com](https://img.shields.io/badge/E--commerce_SEO-22C55E?style=flat-square) | ![Blog](https://img.shields.io/badge/Blog_SEO-F59E0B?style=flat-square) ![GEO](https://img.shields.io/badge/GEO-F59E0B?style=flat-square) |
+| E-commerce SEO targeting organic discovery | AI search optimization & LLM citations |
+| **⚙️ [Best Gear & Gadget](https://www.bestgearandgadget.com/)** | **🥗 [Fitwelleats](https://www.fitwelleats.com/)** |
+| ![Content](https://img.shields.io/badge/Content_SEO-EC4899?style=flat-square) | ![Health](https://img.shields.io/badge/Health_Niche_SEO-14B8A6?style=flat-square) |
+| Topical authority in the gadget niche | YMYL-compliant health SEO, PAA & snippets |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 📊 &nbsp; Case Studies — Real Results
+
+<div align="center">
+
+| 🏆 Campaign | 📈 Result | 🎯 Method |
+|:-----------|:----------|:---------|
+| E-commerce SEO | **+230% Organic Traffic** in 90 days | Technical fixes + content restructuring |
+| Local Business SEO | **+150% Leads** · Ranked #1 Map Pack | GBP optimisation + citation building |
+| Blog AEO Campaign | **+120% AI Visibility** | FAQ schema + conversational intent targeting |
+
+[![View Full Case Studies](https://img.shields.io/badge/%F0%9F%93%8B_View_Full_Case_Studies-ahsan--jannat.netlify.app-00D9FF?style=for-the-badge&labelColor=0D1117)](https://ahsan-jannat.netlify.app/case-studies)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## ⭐ &nbsp; Client Testimonials
+
+<div align="center">
+
+<table border="0" cellspacing="8" cellpadding="0">
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="50%">
+<table border="1" cellspacing="0" cellpadding="16" width="100%"><tr><td>
 
-### 🌾 [Union Agrovet](https://unionagrovet.com.bd)
-![Web Development](https://img.shields.io/badge/Web_Development-00D9FF?style=flat-square)
+> *"Within three months our organic traffic jumped by over 200%. Ahsan identified technical issues we didn't know existed and rebuilt our content structure. Real results, no fluff."*
 
-Full web build with a strong SEO foundation for the agriculture sector.
+**Rafiqul Karim** — E-commerce Founder, Dhaka ⭐⭐⭐⭐⭐
 
+</td></tr></table>
 </td>
-<td align="center" width="50%">
+<td valign="top" width="50%">
+<table border="1" cellspacing="0" cellpadding="16" width="100%"><tr><td>
 
-### 🕊️ [Faithness BD](https://faithnessbd.com/)
-![Web Development](https://img.shields.io/badge/Web_Development-00D9FF?style=flat-square)
+> *"Ahsan's Meta Ads campaigns delivered a 4.2x ROAS in the first month. His audience segmentation and retargeting strategy brought in customers we'd been trying to reach for years."*
 
-Business website with digital growth optimization and performance tuning.
+**Sumaiya Hossain** — Marketing Head, Fashion Brand ⭐⭐⭐⭐⭐
 
+</td></tr></table>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="50%">
+<table border="1" cellspacing="0" cellpadding="16" width="100%"><tr><td>
 
-### 🌱 [Insoils](https://insoils.com/)
-![Web Design](https://img.shields.io/badge/Web_Design-7C3AED?style=flat-square) ![SEO](https://img.shields.io/badge/Technical_SEO-7C3AED?style=flat-square)
+> *"Our business now appears in Google's AI Overviews and People Also Ask boxes for our key terms. Ahsan's AEO and GEO work put us in front of customers at the exact moment they search."*
 
-Clean web design paired with deep technical SEO implementation.
+**Tanvir Islam** — CEO, Local Services Company ⭐⭐⭐⭐⭐
 
+</td></tr></table>
 </td>
-<td align="center" width="50%">
+<td valign="top" width="50%">
+<table border="1" cellspacing="0" cellpadding="16" width="100%"><tr><td>
 
-### ⚡ [Vassker](https://vassker.com/)
-![SEO](https://img.shields.io/badge/SEO-FF5722?style=flat-square) ![Web Design](https://img.shields.io/badge/Web_Design-FF5722?style=flat-square)
+> *"The technical SEO audit uncovered crawl issues, broken schema, and Core Web Vitals failures silently killing our rankings. After fixes, page-1 rankings returned within weeks."*
 
-End-to-end digital growth strategy covering SEO, design, and content.
+**Nadia Jahan** — Operations Manager, SaaS Startup ⭐⭐⭐⭐⭐
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🌿 [Aloevera Glow](https://aloeveraglow.com/)
-![E-commerce SEO](https://img.shields.io/badge/E--commerce_SEO-22C55E?style=flat-square)
-
-E-commerce SEO and design system targeting organic product discovery.
-
-</td>
-<td align="center" width="50%">
-
-### 💻 [Best Tech Planet](https://www.besttechplanet.com/)
-![Blog SEO](https://img.shields.io/badge/Blog_SEO-F59E0B?style=flat-square) ![GEO](https://img.shields.io/badge/GEO-F59E0B?style=flat-square)
-
-Tech blog with AI search optimization and authority building for LLM citations.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### ⚙️ [Best Gear & Gadget](https://www.bestgearandgadget.com/)
-![Content SEO](https://img.shields.io/badge/Content_SEO-EC4899?style=flat-square)
-
-Content-driven SEO campaign growing topical authority in the gadget niche.
-
-</td>
-<td align="center" width="50%">
-
-### 🥗 [Fitwelleats](https://www.fitwelleats.com/)
-![Health SEO](https://img.shields.io/badge/Health_Niche_SEO-14B8A6?style=flat-square)
-
-YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
-
+</td></tr></table>
 </td>
 </tr>
 </table>
@@ -415,98 +339,76 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                WORK EXPERIENCE TIMELINE                -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" alt="Work Experience"> &nbsp; Work Experience
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" alt="Experience"> &nbsp; Work Experience
 
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="0" width="780">
-
 <tr>
-<td width="120" align="center" valign="top">
-<br/>
+<td width="130" align="center" valign="top"><br/>
 <img src="https://img.shields.io/badge/2025-Present-00D9FF?style=for-the-badge&labelColor=0D1117" alt="2025-Present"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2-CURRENT-22C55E?style=flat-square&labelColor=0D1117" alt="Current"/>
 </td>
 <td width="20"></td>
-<td valign="top">
-<br/>
+<td valign="top"><br/>
 
-**🏢 Officer — Digital Marketing Team**
-&nbsp;&nbsp;![HATIL](https://img.shields.io/badge/HATIL-Dhaka%2C%20BD-00D9FF?style=flat-square&labelColor=0D1117)
+**🏢 Officer — Digital Marketing Team** &nbsp; ![HATIL](https://img.shields.io/badge/HATIL-Dhaka%2C%20BD-00D9FF?style=flat-square&labelColor=0D1117)
 
-<sub>Leading digital growth initiatives across SEO, web strategy, and cross-departmental coordination for Bangladesh's premier furniture brand.</sub>
+Leading digital growth initiatives across SEO, web strategy, and cross-departmental coordination for Bangladesh's premier furniture brand.
 
 ![SEO](https://img.shields.io/badge/-SEO%20Strategy-00D9FF?style=flat-square&labelColor=161B22)
 ![Web Strategy](https://img.shields.io/badge/-Web%20Strategy-00D9FF?style=flat-square&labelColor=161B22)
 ![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-00D9FF?style=flat-square&labelColor=161B22)
-![AEO](https://img.shields.io/badge/-AEO%20%26%20GEO-00D9FF?style=flat-square&labelColor=161B22)
-
+![AEO GEO](https://img.shields.io/badge/-AEO%20%26%20GEO-00D9FF?style=flat-square&labelColor=161B22)
 <br/>
 </td>
 </tr>
 
-<tr><td></td><td align="center"><img src="https://img.shields.io/badge/%E2%94%82-%20-7C3AED?style=flat-square&labelColor=0D1117&color=0D1117" alt="|" width="3" height="20"/></td><td></td></tr>
+<tr><td></td><td align="center">·</td><td></td></tr>
 
 <tr>
-<td width="120" align="center" valign="top">
-<br/>
+<td width="130" align="center" valign="top"><br/>
 <img src="https://img.shields.io/badge/Jan_2025-Mid_2025-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Jan-Mid 2025"/>
 </td>
 <td width="20"></td>
-<td valign="top">
-<br/>
+<td valign="top"><br/>
 
-**🌐 Lead Web Strategist**
-&nbsp;&nbsp;![Final Touch](https://img.shields.io/badge/Final%20Touch-Dhaka%2C%20BD-7C3AED?style=flat-square&labelColor=0D1117)
+**🌐 Lead Web Strategist** &nbsp; ![Final Touch](https://img.shields.io/badge/Final%20Touch-Dhaka%2C%20BD-7C3AED?style=flat-square&labelColor=0D1117)
 
-<sub>Architected full-stack web solutions with pre-deployment SEO pipelines, domain strategy, and managed hosting infrastructure.</sub>
+Architected full-stack web solutions with pre-deployment SEO pipelines, domain strategy, and managed hosting infrastructure.
 
 ![Web Architecture](https://img.shields.io/badge/-Web%20Architecture-7C3AED?style=flat-square&labelColor=161B22)
 ![Technical SEO](https://img.shields.io/badge/-Technical%20SEO-7C3AED?style=flat-square&labelColor=161B22)
 ![Hosting](https://img.shields.io/badge/-Hosting%20%26%20Domains-7C3AED?style=flat-square&labelColor=161B22)
-
 <br/>
 </td>
 </tr>
 
-<tr><td></td><td align="center"><img src="https://img.shields.io/badge/%E2%94%82-%20-FF5722?style=flat-square&labelColor=0D1117&color=0D1117" alt="|" width="3" height="20"/></td><td></td></tr>
+<tr><td></td><td align="center">·</td><td></td></tr>
 
 <tr>
-<td width="120" align="center" valign="top">
-<br/>
+<td width="130" align="center" valign="top"><br/>
 <img src="https://img.shields.io/badge/2024-2025-FF5722?style=for-the-badge&labelColor=0D1117" alt="2024-2025"/>
 </td>
 <td width="20"></td>
-<td valign="top">
-<br/>
+<td valign="top"><br/>
 
-**💻 Assistant IT Officer**
-&nbsp;&nbsp;![Bangla City PLC](https://img.shields.io/badge/Bangla%20City%20PLC-Dhaka%2C%20BD-FF5722?style=flat-square&labelColor=0D1117)
+**💻 Assistant IT Officer** &nbsp; ![Bangla City PLC](https://img.shields.io/badge/Bangla%20City%20PLC-Dhaka%2C%20BD-FF5722?style=flat-square&labelColor=0D1117)
 
-<sub>Handled IT infrastructure, network administration, and security protocol implementation across enterprise operations.</sub>
+Handled IT infrastructure, network administration, and security protocol implementation across enterprise operations.
 
 ![IT Support](https://img.shields.io/badge/-IT%20Support-FF5722?style=flat-square&labelColor=161B22)
 ![Networking](https://img.shields.io/badge/-Network%20Mgmt-FF5722?style=flat-square&labelColor=161B22)
 ![Security](https://img.shields.io/badge/-Security%20Protocols-FF5722?style=flat-square&labelColor=161B22)
-
 <br/>
 </td>
 </tr>
-
 </table>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     EDUCATION                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="30" alt="Education"> &nbsp; Education
 
@@ -514,28 +416,22 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <table border="0" cellspacing="0" cellpadding="0" width="780">
 <tr>
-<td width="130" align="center" valign="top">
-<br/>
+<td width="130" align="center" valign="top"><br/>
 <img src="https://img.shields.io/badge/2019-2023-14B8A6?style=for-the-badge&labelColor=0D1117" alt="2019-2023"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%93-CSE-14B8A6?style=flat-square&labelColor=0D1117" alt="CSE Degree"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%93-CSE-14B8A6?style=flat-square&labelColor=0D1117" alt="Degree"/>
 </td>
 <td width="20"></td>
-<td valign="top">
-<br/>
+<td valign="top"><br/>
 
-**🎓 B.Sc. in Computer Science & Engineering**
-&nbsp;&nbsp;![NUBTK](https://img.shields.io/badge/Northern%20University%20of%20Business%20%26%20Tech-Khulna%2C%20BD-14B8A6?style=flat-square&labelColor=0D1117)
-
-<sub>Four-year undergraduate degree covering core computer science theory and applied engineering disciplines.</sub>
+**🎓 B.Sc. in Computer Science & Engineering** &nbsp; ![NUBTK](https://img.shields.io/badge/Northern%20University%20of%20Business%20%26%20Tech-Khulna%2C%20BD-14B8A6?style=flat-square&labelColor=0D1117)
 
 &nbsp;&nbsp;![CGPA](https://img.shields.io/badge/%F0%9F%8F%86%20CGPA-3.094%20%2F%204.00-F59E0B?style=for-the-badge&labelColor=0D1117)
 
 ![Algorithms](https://img.shields.io/badge/-Algorithms-14B8A6?style=flat-square&labelColor=161B22)
 ![Networking](https://img.shields.io/badge/-Networking-14B8A6?style=flat-square&labelColor=161B22)
 ![Databases](https://img.shields.io/badge/-Databases-14B8A6?style=flat-square&labelColor=161B22)
-![Software Eng.](https://img.shields.io/badge/-Software%20Eng.-14B8A6?style=flat-square&labelColor=161B22)
-
+![Software Eng](https://img.shields.io/badge/-Software%20Eng.-14B8A6?style=flat-square&labelColor=161B22)
 <br/>
 </td>
 </tr>
@@ -544,10 +440,6 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   CERTIFICATIONS                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🏅 &nbsp; Certifications & Credentials
 
@@ -563,10 +455,6 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 CURRENTLY LEARNING                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🎯 &nbsp; Currently Learning
 
@@ -584,39 +472,27 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   GITHUB TROPHIES                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Trophies"> &nbsp; GitHub Trophies
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jannat63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/KzJvzblenWsZcytB89/giphy.gif" width="30" alt="GitHub Stats"> &nbsp; GitHub Stats
+## <img src="https://media.giphy.com/media/KzJvzblenWsZcytB89/giphy.gif" width="30" alt="Stats"> &nbsp; GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jannat63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jannat63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&count_private=true&rank_icon=github&cache_seconds=86400" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannat63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannat63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Jannat63&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF5722&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" width="65%" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=Jannat63&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF5722&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" width="65%" alt="GitHub Streak"/>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION ACTIVITY GRAPH              -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" alt="Activity"> &nbsp; Contribution Activity
 
@@ -626,10 +502,6 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               SNAKE CONTRIBUTION ANIMATION             -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Snake"> &nbsp; Contribution Snake
 
 <div align="center">
@@ -637,140 +509,86 @@ YMYL-compliant health niche SEO targeting featured snippets and PAA boxes.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jannat63/Jannat63/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jannat63/Jannat63/output/github-snake.svg"/>
-  <img alt="Contribution Snake — run the GitHub Action once to generate this animation" src="https://raw.githubusercontent.com/Jannat63/Jannat63/output/github-snake-dark.svg" width="100%"/>
+  <img alt="GitHub Contribution Snake — activate by running the GitHub Action below" src="https://raw.githubusercontent.com/Jannat63/Jannat63/output/github-snake-dark.svg" width="100%"/>
 </picture>
-
-<sub>Run the snake GitHub Action once to generate the animation — see the setup guide below.</sub>
 
 </div>
 
+<details>
+<summary>⚙️ Click to set up the snake animation (one-time GitHub Action)</summary>
+
+Create `.github/workflows/snake.yml` in this repo with the content below, then run it once from the **Actions** tab:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Jannat63
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  LATEST BLOG POSTS                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" alt="Blog Posts"> &nbsp; Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" alt="Blog"> &nbsp; Latest Blog Posts
 
 <div align="center">
 
-<table border="0" cellspacing="6" cellpadding="0" width="780">
-<tr>
+| 📖 Article | 🏷️ Category | 📅 Date |
+|:-----------|:------------|:-------:|
+| [**SEO vs AEO vs GEO: What's the Difference?**](https://ahsan-jannat.netlify.app/blog/seo-vs-aeo-vs-geo) | SEO Strategy | May 2026 |
+| [**How to Rank in AI Overviews & SGE**](https://ahsan-jannat.netlify.app/blog/how-to-rank-in-ai-overviews) | AEO | May 2026 |
+| [**Technical SEO Checklist for 2026**](https://ahsan-jannat.netlify.app/blog/technical-seo-checklist-2026) | Technical SEO | May 2026 |
+| [**What is GEO? How to Get Cited by ChatGPT & Gemini**](https://ahsan-jannat.netlify.app/blog/what-is-geo) | GEO | Apr 2026 |
+| [**Meta Ads Complete Guide 2026: From Setup to ROAS**](https://ahsan-jannat.netlify.app/blog/meta-ads-complete-guide-2026) | Meta Ads | Apr 2026 |
+| [**How to Do Keyword Research for SEO in 2026**](https://ahsan-jannat.netlify.app/blog/how-to-do-keyword-research-for-seo) | SEO | Apr 2026 |
 
-<td width="50%" valign="top">
-<table border="1" cellspacing="0" cellpadding="14" width="100%">
-<tr><td>
-<img src="https://img.shields.io/badge/SEO%20%7C%20AEO%20%7C%20GEO-Strategy-00D9FF?style=flat-square&labelColor=0D1117" alt="Strategy"/>
-<br/><br/>
-<b><a href="https://ahsan-jannat.netlify.app/blog/seo-vs-aeo-vs-geo">SEO vs AEO vs GEO: What's the Difference?</a></b>
-<br/><sub>Breaking down the three pillars of modern search visibility.</sub>
-<br/><br/>→ <a href="https://ahsan-jannat.netlify.app/blog/seo-vs-aeo-vs-geo">Read article</a>
-</td></tr>
-</table>
-</td>
-
-<td width="50%" valign="top">
-<table border="1" cellspacing="0" cellpadding="14" width="100%">
-<tr><td>
-<img src="https://img.shields.io/badge/AI%20Search-AEO-7C3AED?style=flat-square&labelColor=0D1117" alt="AEO"/>
-<br/><br/>
-<b><a href="https://ahsan-jannat.netlify.app/blog/how-to-rank-in-ai-overviews">How to Rank in AI Overviews & SGE</a></b>
-<br/><sub>Tactics to appear in Google's AI-generated answers.</sub>
-<br/><br/>→ <a href="https://ahsan-jannat.netlify.app/blog/how-to-rank-in-ai-overviews">Read article</a>
-</td></tr>
-</table>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<table border="1" cellspacing="0" cellpadding="14" width="100%">
-<tr><td>
-<img src="https://img.shields.io/badge/Technical-SEO-00D9FF?style=flat-square&labelColor=0D1117" alt="Technical SEO"/>
-<br/><br/>
-<b><a href="https://ahsan-jannat.netlify.app/blog/technical-seo-checklist-2026">Technical SEO Checklist for 2026</a></b>
-<br/><sub>Every audit item you need to rank and crawl efficiently.</sub>
-<br/><br/>→ <a href="https://ahsan-jannat.netlify.app/blog/technical-seo-checklist-2026">Read article</a>
-</td></tr>
-</table>
-</td>
-
-<td width="50%" valign="top">
-<table border="1" cellspacing="0" cellpadding="14" width="100%">
-<tr><td>
-<img src="https://img.shields.io/badge/GEO-LLM%20Citations-7C3AED?style=flat-square&labelColor=0D1117" alt="GEO"/>
-<br/><br/>
-<b><a href="https://ahsan-jannat.netlify.app/blog/what-is-geo">What is GEO? Get Cited by ChatGPT & Gemini</a></b>
-<br/><sub>Generative Engine Optimization from scratch.</sub>
-<br/><br/>→ <a href="https://ahsan-jannat.netlify.app/blog/what-is-geo">Read article</a>
-</td></tr>
-</table>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<table border="1" cellspacing="0" cellpadding="14" width="100%">
-<tr><td>
-<img src="https://img.shields.io/badge/Meta%20Ads-Performance-FF5722?style=flat-square&labelColor=0D1117" alt="Meta Ads"/>
-<br/><br/>
-<b><a href="https://ahsan-jannat.netlify.app/blog/meta-ads-complete-guide-2026">Meta Ads Complete Guide 2026: Setup to ROAS</a></b>
-<br/><sub>Full-funnel campaign strategy to maximise ad return.</sub>
-<br/><br/>→ <a href="https://ahsan-jannat.netlify.app/blog/meta-ads-complete-guide-2026">Read article</a>
-</td></tr>
-</table>
-</td>
-
-<td width="50%" valign="top"></td>
-
-</tr>
-</table>
+[![View All Posts](https://img.shields.io/badge/%F0%9F%93%9A_View_All_Blog_Posts-ahsan--jannat.netlify.app%2Fblog-7C3AED?style=for-the-badge&labelColor=0D1117)](https://ahsan-jannat.netlify.app/blog)
 
 </div>
 
-<!-- BLOG-POST-LIST:END -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              WORK WITH ME — CTA BANNER                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 📩 &nbsp; Work With Me
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td align="center" style="padding:20px 0;">
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open%20for%20Collaborations-22C55E?style=for-the-badge&labelColor=0D1117" alt="Open for work"/>
-</td>
-</tr>
-</table>
+<br/>
 
 **Available for:** SEO Audits &nbsp;·&nbsp; AEO/GEO Strategy &nbsp;·&nbsp; Meta Ads Campaigns &nbsp;·&nbsp; Technical SEO &nbsp;·&nbsp; AI Search Visibility &nbsp;·&nbsp; Web Strategy Consulting
 
 <br/>
 
-[![Book a Strategy Call](https://img.shields.io/badge/%F0%9F%93%85_Book_a_Free_Strategy_Call-Let's%20Talk!-00D9FF?style=for-the-badge&labelColor=0D1117)](https://ahsan-jannat.netlify.app/contact)
+[![Free SEO Audit](https://img.shields.io/badge/%F0%9F%94%8D_Get_a_Free_SEO_Audit-Start%20Here!-22C55E?style=for-the-badge&labelColor=0D1117)](https://ahsan-jannat.netlify.app/free-audit)
 &nbsp;
-[![Ask Ahsan AI](https://img.shields.io/badge/%F0%9F%A4%96_Ask_Ahsan_AI-Chat%20with%20my%20assistant-7C3AED?style=for-the-badge&labelColor=0D1117)](https://ahsan-jannat.netlify.app/ask)
+[![Book a Strategy Call](https://img.shields.io/badge/%F0%9F%93%85_Book_a_Strategy_Call-Let's%20Talk-00D9FF?style=for-the-badge&labelColor=0D1117)](https://ahsan-jannat.netlify.app/contact)
 &nbsp;
-[![View Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_View_Portfolio-See%20my%20work-FF5722?style=for-the-badge&labelColor=0D1117)](https://ahsan-jannat.netlify.app/)
+[![View Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_View_Portfolio-See%20My%20Work-FF5722?style=for-the-badge&labelColor=0D1117)](https://ahsan-jannat.netlify.app/)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   LET'S CONNECT                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/UCr7hZIhRhvMGxiMFQDMQA/giphy.gif" width="30" alt="Let's Connect"> &nbsp; Let's Connect
+## <img src="https://media.giphy.com/media/UCr7hZIhRhvMGxiMFQDMQA/giphy.gif" width="30" alt="Connect"> &nbsp; Let's Connect
 
 <div align="center">
 
